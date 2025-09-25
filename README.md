@@ -1,0 +1,1 @@
+Ce projet explore l’influence de Batch Normalization et Dropout sur l’entraînement des réseaux de neurones en utilisant la Functional API de Keras. L’objectif principal est de comprendre comment ces deux techniques affectent la stabilité, la vitesse de convergence et la capacité de généralisation d’un modèle.
